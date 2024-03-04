@@ -7,7 +7,7 @@ import {
   CustomerReviews,
   Subscribe,
   Footer,
-} from "./sections";
+} from "./sections"; // kita boleh import camni sebab kita dah export semua ni kat index.js file
 
 const App = () => (
   <main className="relative">
