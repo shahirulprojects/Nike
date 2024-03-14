@@ -1,5 +1,5 @@
 const Subscribe = () => {
-  return <div>Subscribe</div>;
+  return <div className="bg-blue-700 text-white text-bold">Subscribe</div>;
 };
 
 export default Subscribe;
