@@ -8,10 +8,11 @@ import {
   Subscribe,
   Footer,
 } from "./sections"; // kita boleh import camni sebab kita dah export semua ni kat index.js file
+import Nav from "./components/Nav";
 
 const App = () => (
   <main className="relative">
-    {/* <Nav/> */}
+    <Nav />
     <section className="xl:padding-1 wide:padding-r padding-b">
       {/* on extra large devices,padding 1.On wide devices padding-r.Padding-r and padding-b is a custom class that can be found in index.css file */}
       <Hero />

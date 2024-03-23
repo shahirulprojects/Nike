@@ -1,5 +1,5 @@
 const SuperQuality = () => {
-  return <div className="bg-blue-600 text-white text-bold">SuperQuality</div>;
+  return <div>SuperQuality</div>;
 };
 
 export default SuperQuality;
