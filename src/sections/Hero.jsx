@@ -1,5 +1,6 @@
 import Button from "../components/Button";
 import { arrowRight } from "../assets/icons";
+import { statistics } from "../constants";
 
 const Hero = () => {
   return (
@@ -22,6 +23,16 @@ const Hero = () => {
           your active life.
         </p>
         <Button label="Shop now" iconUrl={arrowRight} />
+
+        <div className="flex justify-start items-start flex-wrap w-full mt-20 gap-16">
+          {/* justify start means that the items will start at the left while items-start means that the item will start at the top */}
+          {statistics.map((stat) => (
+            <div key={stat.label}>
+              <p>{stat.value}</p>
+              <p>{stat.label}</p>
+            </div>
+          ))}
+        </div>
       </div>
     </section>
   );
