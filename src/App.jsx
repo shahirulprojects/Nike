@@ -13,7 +13,7 @@ import Nav from "./components/Nav";
 const App = () => (
   <main className="relative">
     <Nav />
-    <section className="xl:padding-1 wide:padding-r padding-b">
+    <section className="xl:padding-l wide:padding-r padding-b">
       {/* on extra large devices,padding 1.On wide devices padding-r.Padding-r and padding-b is a custom class that can be found in index.css file */}
       <Hero />
     </section>
