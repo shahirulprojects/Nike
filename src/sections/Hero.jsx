@@ -30,7 +30,7 @@ const Hero = () => {
           Discover stylish Nike arrivals, quality comfort, and innovation for
           your active life.
         </p>
-        <Button label="Shop now" iconUrl={arrowRight} />
+        <Button label="Shop now" iconURL={arrowRight} />
 
         <div className="flex justify-start items-start flex-wrap w-full mt-20 gap-16">
           {/* justify start means that the items will start at the left while items-start means that the item will start at the top */}
