@@ -13,7 +13,7 @@ const SuperQuality = () => {
       <div className="flex flex-1 flex-col">
         <h2 className="font-palanquin text-4xl capitalize font-bold lg:max-w-lg">
           {/* leading is used for the gap between lines of words (gap between the above words and the below words) */}
-          {/* capitalize is used to capslock all starting letter for each word */}
+          {/* capitalize is used to capslock all starting letter for each word (kot) */}
           We Provide You
           <span className="text-coral-red"> Super Quality </span>
           Shoes
