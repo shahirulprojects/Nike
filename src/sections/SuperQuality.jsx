@@ -7,7 +7,7 @@ const SuperQuality = () => {
       id="about-us"
       className="flex justify-between items-center max-lg:flex-col gap-10 w-full max-container"
     >
-      {/* justify-between is used because we want to have a space on the left and right */}
+      {/* justify-between is used because we want to have a space on left and right */}
       {/* max-container is used to ensure that everything is contained within our full width */}
 
       <div className="flex flex-1 flex-col">
