@@ -33,7 +33,7 @@ const Hero = () => {
         <Button label="Shop now" iconURL={arrowRight} />
 
         <div className="flex justify-start items-start flex-wrap w-full mt-20 gap-16">
-          {/* justify start means that the items will start at the left while items-start means that the item will start at the top */}
+          {/* justify-start means that the items will start at the left while items-start means that the item will start at the top */}
           {statistics.map((stat) => (
             <div key={stat.label}>
               <p className="text-4xl font-palanquin font-bold">{stat.value}</p>
