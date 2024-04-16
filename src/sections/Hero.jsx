@@ -55,7 +55,7 @@ const Hero = () => {
         />
 
         <div className="flex sm:gap-6 gap-4 absolute -bottom-[5%] sm:left-[10%] max-sm:px-6">
-          {/* -bottom and left- is used to position the element at the bottom and left */}
+          {/* -bottom and left is used to position the element at the bottom and left */}
           {shoes.map((shoe) => (
             <div key={shoe}>
               <ShoeCard
