@@ -1,5 +1,5 @@
 const SpecialOffer = () => {
-  return <div>SpecialOffer</div>;
+  return <div className="bg-red-100">SpecialOffer</div>;
 };
 
 export default SpecialOffer;
