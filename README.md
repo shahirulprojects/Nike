@@ -30,6 +30,7 @@ Build a stunning Nike landing page, applying learned Tailwind CSS skills to crea
 
 - Tailwind CSS
 - React.js
+- Netlify
 
 ## <a name="features">🔋 Features</a>
 
