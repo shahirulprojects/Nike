@@ -5,6 +5,8 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
+  <h3 align="center">A Fintech Bank Application</h3>
+
  
 </div>
 
@@ -21,7 +23,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Master Tailwind CSS in two parts by first learning fundamentals, advanced techniques, and theming. Then, build a stunning Nike landing page, applying learned skills to create a visually impressive website.
+Build a stunning Nike landing page, applying learned Tailwind CSS skills to create a visually impressive website.
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
