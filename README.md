@@ -78,8 +78,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/shahirulprojects/nike.git
-cd nike
+git clone https://github.com/shahirulprojects/Nike.git
+cd Nike
 ```
 
 **Installation**
