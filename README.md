@@ -62,7 +62,7 @@ while building a beautiful Nike Website with a,
 
 👉 **Mobile Responsive**: The entire website is responsive across various devices, emphasizing Tailwind's mobile-friendly capabilities.
 
-and many more, including code architecture and reusability
+and many more, including code architecture and reusability.
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
